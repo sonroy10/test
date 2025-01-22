@@ -1,0 +1,11 @@
+1. Insert money into the vending machine (accepted: quarters or $1 bills).
+2. Select either a single soda or snack with the selection buttons.
+3. If the inserted amount is exact or sufficient:
+   - The selected item will be dispensed.
+   - Change will be returned if needed.
+4. If insufficient funds are provided:
+   - Prompt and insert more money to complete the transaction.
+5. If the selected item is unavailable (out of stock):
+   - Choose a different item or cancel transaction with money return.
+6. After dispensing item and change, the machine resets to idle state.
+7. If transaction is cancelled and money is returned, the machine resets to idle state.

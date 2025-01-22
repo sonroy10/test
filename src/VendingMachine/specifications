@@ -1,0 +1,7 @@
+Vending Machine Specifications:
+- Accepts quarters and $1 bills.
+- Inventory checks.
+- Dispense either 12-ounce soda cans and snacks at a time.
+- Each item costs 75 cents.
+- Dispenses items only when exact or sufficient funds are provided.
+- Returns change if more than 75 cents is inserted.
